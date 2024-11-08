@@ -3,12 +3,12 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-stack e-commerce solution built with React, Node.js, and MongoDB.',
+    title: 'E-Commerce Backend',
+    description: 'Using Object Relational Mapping (ORM) to create a backend for an e-commerce site.',
     image: 'https://images.unsplash.com/photo-1661956602116-aa6865609028?auto=format&fit=crop&q=80&w=800&h=600',
-    tech: ['React', 'Node.js', 'MongoDB', 'Express'],
+    tech: ['Node.js', 'Express', 'MySQL', 'Insomnia', 'Sequelize'],
     liveUrl: '#',
-    githubUrl: '#'
+    githubUrl: 'https://github.com/SideControlJS/e-commerce'
   },
   {
     title: 'Task Management App',

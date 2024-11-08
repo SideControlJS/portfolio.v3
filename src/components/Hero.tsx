@@ -9,7 +9,7 @@ export default function Hero() {
             <div className="sm:text-center lg:text-left">
               <div className="flex items-center mb-8 sm:justify-center lg:justify-start">
                 <img
-                  src="/assets/profile.JPG"
+                  src="../assets/profile.JPG"
                   alt="Jesse Lare"
                   className="h-24 w-24 rounded-full object-cover border-4 border-indigo-600 shadow-lg"
                 />

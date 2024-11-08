@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import * as React from 'react';
+import { useState } from 'react';
 import { Mail, MessageSquare, Send, CheckCircle, AlertCircle } from 'lucide-react';
 
 export default function Contact() {

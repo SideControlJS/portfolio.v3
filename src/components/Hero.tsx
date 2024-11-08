@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRight, Terminal, Server, Globe, Code2 } from 'lucide-react';
 
 export default function Hero() {

@@ -26,7 +26,7 @@ export default function Navbar() {
             <a href="https://github.com/SideControlJS" className="text-gray-500 hover:text-gray-900 transition-colors">
               <Github className="h-5 w-5" />
             </a>
-            <a href="https://linkedin.com" className="text-gray-500 hover:text-gray-900 transition-colors">
+            <a href="www.linkedin.com/in/jesselare" className="text-gray-500 hover:text-gray-900 transition-colors">
               <Linkedin className="h-5 w-5" />
             </a>
             <a href="mailto:jesse.lare@gmail.com" className="text-gray-500 hover:text-gray-900 transition-colors">

@@ -4,7 +4,7 @@ import { Mail, MessageSquare, Send, CheckCircle, AlertCircle } from 'lucide-reac
 
 export default function Contact() {
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
-  const FORMSPREE_URL = "https://formspree.io/f/YOUR_FORM_ID"; // Replace with your Formspree form ID
+  const FORMSPREE_URL = "https://formspree.io/f/mgveywke"; // Replace with your Formspree form ID
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();

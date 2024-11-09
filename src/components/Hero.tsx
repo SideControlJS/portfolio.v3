@@ -9,14 +9,14 @@ export default function Hero() {
             <div className="sm:text-center lg:text-left">
               <div className="flex items-center mb-8 sm:justify-center lg:justify-start">
                 <img
-                  src="assets/profile.jpg"
+                  src="https://avatars.githubusercontent.com/u/92288446?v=4"
                   alt="Jesse Lare"
                   className="h-24 w-24 rounded-full object-cover border-4 border-indigo-600 shadow-lg"
                 />
               </div>
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block">Full Stack Web Developer</span>
-                <span className="block text-indigo-600">Industry Expert Turned Developer</span>
+                <span className="block text-indigo-600">Lighting Controls Expert Turned Developer</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                 With a background in project management, engineering management, and a Full Stack Web Development certification, I help small businesses solve complex challenges and elevate their digital presence. I bring technical skill, creativity, and problem-solving expertise to help your business thrive.

@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Electrical Contractor Website',
     description: 'An example of a simple yet functional website for an electrical contractor.',
-    image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=800&h=600',
+    image: 'https://spiffy-truffle-660eaf.netlify.app/',
     tech: ['React', 'TypeScript', 'Tailwind CSS'],
     liveUrl: 'https://spiffy-truffle-660eaf.netlify.app/',
     githubUrl: 'https://github.com/SideControlJS/electrical-contractor'

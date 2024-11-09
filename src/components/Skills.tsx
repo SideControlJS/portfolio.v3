@@ -1,4 +1,4 @@
-import { Code2, Database, Globe, Code, Settings, Laptop, Server, Shield, Lightbulb, Building2, Store } from 'lucide-react';
+import { Code2, Database, Globe, Code, Settings, RefreshCw, Laptop } from 'lucide-react';
 
 const technicalSkills = [
   {
@@ -36,7 +36,7 @@ const industryExpertise = [
   },
   {
     category: 'WordPress Development',
-    icon: <Wordpress className="h-6 w-6 text-indigo-600" />,
+    icon: <Laptop className="h-6 w-6 text-indigo-600" />,
     areas: ['Theme Customization', 'Plugin Integration', 'E-commerce Setup', 'Content Management Support']
   }
 ];

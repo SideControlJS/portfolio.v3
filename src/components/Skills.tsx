@@ -1,4 +1,4 @@
-import { Code2, Database, Globe, Laptop, Server, Shield, Lightbulb, Building2, Store } from 'lucide-react';
+import { Code2, Database, Globe, Code, Settings, Laptop, Server, Shield, Lightbulb, Building2, Store } from 'lucide-react';
 
 const technicalSkills = [
   {
@@ -20,19 +20,24 @@ const technicalSkills = [
 
 const industryExpertise = [
   {
-    category: 'Systems Integration',
-    icon: <Lightbulb className="h-6 w-6 text-indigo-600" />,
-    areas: ['Lighting Control Systems', 'Audio/Video Systems', 'System Programming', 'Technical Design']
+    category: 'Full Stack Web Development',
+    icon: <Code className="h-6 w-6 text-indigo-600" />,
+    areas: ['Frontend Development', 'Backend Development', 'Database Management', 'API Integration']
   },
   {
-    category: 'Construction & IT',
-    icon: <Building2 className="h-6 w-6 text-indigo-600" />,
-    areas: ['Construction Industry', 'IT Services', 'System Integration', 'Technical Documentation']
+    category: 'Custom Software Solutions',
+    icon: <Settings className="h-6 w-6 text-indigo-600" />,
+    areas: ['Business Process Automation', 'Custom Tool Development', 'Data Management Solutions', 'Workflow Optimization']
   },
   {
-    category: 'Web Development',
-    icon: <Laptop className="h-6 w-6 text-indigo-600" />,
-    areas: ['Frontend Development', 'Backend Development', 'Data Management', 'API Integration']
+    category: 'Website Development & Refresh',
+    icon: <RefreshCw className="h-6 w-6 text-indigo-600" />,
+    areas: ['Website Redesign', 'UX/UI Improvements', 'Performance Optimization', 'SEO Enhancements']
+  },
+  {
+    category: 'WordPress Development',
+    icon: <Wordpress className="h-6 w-6 text-indigo-600" />,
+    areas: ['Theme Customization', 'Plugin Integration', 'E-commerce Setup', 'Content Management Support']
   }
 ];
 
@@ -41,7 +46,7 @@ export default function Skills() {
     <section id="skills" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">Expertise & Services</h2>
+          <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">Skills & Services</h2>
           <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-500">
             Combining technical skills and creativity to deliver tailored web solutions.
           </p>
@@ -72,7 +77,7 @@ export default function Skills() {
         </div>
 
         <div className="mt-16">
-          <h3 className="text-2xl font-bold text-gray-900 mb-8">Industry Expertise</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-8">Services</h3>
           <div className="grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
             {industryExpertise.map((expertise, index) => (
               <div key={index} className="bg-gray-50 rounded-lg p-6 hover:shadow-lg transition-shadow duration-300">

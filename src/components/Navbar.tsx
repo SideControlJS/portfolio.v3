@@ -17,7 +17,7 @@ export default function Navbar() {
             <div className="ml-10 flex items-baseline space-x-4">
               <a href="#home" className="text-gray-900 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">Home</a>
               <a href="#projects" className="text-gray-900 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">Projects</a>
-              <a href="#skills" className="text-gray-900 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">Skills</a>
+              <a href="#skills" className="text-gray-900 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">Skills & Services</a>
               <a href="#contact" className="text-gray-900 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">Contact</a>
             </div>
           </div>

@@ -4,7 +4,7 @@ import { ExternalLink, Github } from 'lucide-react';
 const projects = [
   {
     title: 'Electrical Contractor Website',
-    description: 'An example of a simple yet functional website for an electrical contractor.',
+    description: 'An example of a simple yet professional website for an electrical contractor.',
     image: 'https://spiffy-truffle-660eaf.netlify.app/',
     tech: ['React', 'TypeScript', 'Tailwind CSS'],
     liveUrl: 'https://spiffy-truffle-660eaf.netlify.app/',

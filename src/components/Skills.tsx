@@ -1,4 +1,4 @@
-import { Code2, Database, Globe, Code, Settings, RefreshCw, Laptop } from 'lucide-react';
+import { Code2, Database, Globe, Code, RefreshCw, Laptop } from 'lucide-react';
 
 const technicalSkills = [
   {
@@ -25,12 +25,7 @@ const industryExpertise = [
     areas: ['Frontend Development', 'Backend Development', 'Database Management', 'API Integration']
   },
   {
-    category: 'Custom Software Solutions',
-    icon: <Settings className="h-6 w-6 text-indigo-600" />,
-    areas: ['Business Process Automation', 'Custom Tool Development', 'Data Management Solutions', 'Workflow Optimization']
-  },
-  {
-    category: 'Website Development & Refresh',
+    category: 'Website Refresh',
     icon: <RefreshCw className="h-6 w-6 text-indigo-600" />,
     areas: ['Website Redesign', 'UX/UI Improvements', 'Performance Optimization', 'SEO Enhancements']
   },

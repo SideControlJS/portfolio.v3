@@ -1,30 +1,29 @@
-import React from 'react';
+// import * as React from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
+  {
+    title: 'Electrical Contractor Website',
+    description: 'An example of a simple yet functional website for an electrical contractor.',
+    image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=800&h=600',
+    tech: ['React', 'TypeScript', 'Tailwind CSS'],
+    liveUrl: 'https://spiffy-truffle-660eaf.netlify.app/',
+    githubUrl: 'https://github.com/SideControlJS/electrical-contractor'
+  },
   {
     title: 'E-Commerce Backend',
     description: 'Using Object Relational Mapping (ORM) to create a backend for an e-commerce site.',
     image: 'https://images.unsplash.com/photo-1661956602116-aa6865609028?auto=format&fit=crop&q=80&w=800&h=600',
     tech: ['Node.js', 'Express', 'MySQL', 'Insomnia', 'Sequelize'],
-    liveUrl: '#',
     githubUrl: 'https://github.com/SideControlJS/e-commerce'
   },
   {
-    title: 'Task Management App',
-    description: 'Real-time task management application with team collaboration features.',
-    image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=800&h=600',
-    tech: ['React', 'Firebase', 'Tailwind CSS'],
-    liveUrl: '#',
-    githubUrl: '#'
-  },
-  {
-    title: 'AI Content Platform',
-    description: 'Content generation platform powered by machine learning algorithms.',
+    title: 'Basic Weather Dashboard',
+    description: 'A simple, intuitive mobile friendly weather dashboard using the OpenWeather API.',
     image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600',
-    tech: ['React', 'Python', 'TensorFlow', 'FastAPI'],
-    liveUrl: '#',
-    githubUrl: '#'
+    tech: ['JavaScript', 'Bootstrap', 'HTML',],
+    liveUrl: 'https://sidecontroljs.github.io/me-weather/',
+    githubUrl: 'https://github.com/SideControlJS/me-weather'
   }
 ];
 

@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { Menu, X, Code2, Github, Linkedin, Mail } from 'lucide-react';
 
 export default function Navbar() {

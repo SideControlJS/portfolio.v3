@@ -1,4 +1,3 @@
-import React from 'react';
 import { Code2, Database, Globe, Laptop, Server, Shield, Lightbulb, Building2, Store } from 'lucide-react';
 
 const technicalSkills = [
@@ -31,9 +30,9 @@ const industryExpertise = [
     areas: ['Construction Industry', 'IT Services', 'System Integration', 'Technical Documentation']
   },
   {
-    category: 'Small Business',
-    icon: <Store className="h-6 w-6 text-indigo-600" />,
-    areas: ['Restaurants', 'Coffee Shops', 'BJJ Gyms', 'Local Businesses']
+    category: 'Web Development',
+    icon: <Laptop className="h-6 w-6 text-indigo-600" />,
+    areas: ['Frontend Development', 'Backend Development', 'Data Management', 'API Integration']
   }
 ];
 
@@ -44,7 +43,7 @@ export default function Skills() {
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">Expertise & Services</h2>
           <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-500">
-            Combining technical skills with industry expertise to deliver tailored web solutions.
+            Combining technical skills and creativity to deliver tailored web solutions.
           </p>
         </div>
 

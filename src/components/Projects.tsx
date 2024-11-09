@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'Basic Weather Dashboard',
     description: 'A simple, intuitive mobile friendly weather dashboard using the OpenWeather API.',
-    image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600',
+    image: 'https://images.unsplash.com/photo-1534068731687-d70176c2e7d5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['JavaScript', 'Bootstrap', 'HTML',],
     liveUrl: 'https://sidecontroljs.github.io/me-weather/',
     githubUrl: 'https://github.com/SideControlJS/me-weather'

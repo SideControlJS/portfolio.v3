@@ -16,7 +16,7 @@ export default function Hero() {
               </div>
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block">Web Developer</span>
-                <span className="block text-indigo-600">Empowering Small Businesses with Full Stack Web Development</span>
+                <span className="block text-indigo-600">Empowering Small Businesses with Full Stack Development</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
               With a strong foundation in project and engineering management, along with full stack web development expertise, I understand the unique challenges small businesses face. I’m here to help you enhance your digital presence through tailored web solutions, from complete custom builds to simpler tasks like site refreshes and landing pages. My technical skills, combined with a business-oriented perspective, enable me to deliver practical, effective, and creative solutions designed to help your business thrive in the digital landscape.

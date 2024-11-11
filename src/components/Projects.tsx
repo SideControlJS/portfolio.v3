@@ -18,12 +18,12 @@ const projects = [
     githubUrl: 'https://github.com/SideControlJS/e-commerce'
   },
   {
-    title: 'Basic Weather Dashboard',
+    title: 'Mobile-Friendly Weather Dashboard',
     description: 'A simple, intuitive mobile friendly weather dashboard using the OpenWeather API.',
     image: 'https://images.unsplash.com/photo-1534068731687-d70176c2e7d5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tech: ['JavaScript', 'Bootstrap', 'HTML',],
-    liveUrl: 'https://sidecontroljs.github.io/me-weather/',
-    githubUrl: 'https://github.com/SideControlJS/me-weather'
+    tech: ['JavaScript', 'TypeScript', 'Bootstrap', 'HTML',],
+    liveUrl: 'https://weather-dashboard-v2.netlify.app/',
+    githubUrl: 'https://github.com/SideControlJS/modern_weather_dashboard'
   }
 ];
 

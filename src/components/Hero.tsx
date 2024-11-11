@@ -15,11 +15,11 @@ export default function Hero() {
                 />
               </div>
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                <span className="block">Full Stack Web Developer</span>
-                <span className="block text-indigo-600">Lighting Controls Expert Turned Developer</span>
+                <span className="block">Freelance Web Developer</span>
+                <span className="block text-indigo-600">Specializing in Full Stack Web Development</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                With a background in project management, engineering management, and a Full Stack Web Development certification, I help small businesses solve complex challenges and elevate their digital presence. I bring technical skill, creativity, and problem-solving expertise to help your business thrive.
+                With a background in project management, engineering management, and a sull stack web development certification, I help small businesses solve complex challenges and elevate their digital presence. I bring technical skill, creativity, and problem-solving expertise to help your business thrive.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">

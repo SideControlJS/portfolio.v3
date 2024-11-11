@@ -8,11 +8,6 @@ const benefits = [
     description: "From beautiful user interfaces to powerful backend systems, I handle every aspect of your web application. This means seamless integration and consistent quality throughout."
   },
   {
-    icon: <Zap className="h-6 w-6 text-indigo-600" />,
-    title: "Industry-Specific Expertise",
-    description: "With 10 years in lighting controls and systems integration, I understand the unique challenges of construction, AV systems, and technical businesses. This means solutions tailored to your industry."
-  },
-  {
     icon: <Database className="h-6 w-6 text-indigo-600" />,
     title: "Complete Technology Stack",
     description: "Using modern technologies like React, Node.js, and MongoDB, I build scalable, maintainable applications that grow with your business and adapt to changing needs."

@@ -19,7 +19,7 @@ export default function Hero() {
                 <span className="block text-indigo-600">Specializing in Full Stack Web Development</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                With a background in project management, engineering management, and a sull stack web development certification, I help small businesses solve complex challenges and elevate their digital presence. I bring technical skill, creativity, and problem-solving expertise to help your business thrive.
+                With a background in project management, engineering management, and a full stack web development certification, I help small businesses solve complex challenges and elevate their digital presence. I bring technical skill, creativity, and problem-solving expertise to help your business thrive.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">

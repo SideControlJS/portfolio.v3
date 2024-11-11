@@ -28,7 +28,7 @@ export default function ValueProposition() {
             What is Full Stack Development?
           </h2>
           <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-500">
-            Full stack development means mastering both the visible parts of your website and the powerful systems behind it. Here's how my expertise benefits your business:
+          Full stack development encompasses both the visible parts of your website and the underlying systems that make it work seamlessly. Here’s how my expertise can support your business:
           </p>
         </div>
 
@@ -54,11 +54,11 @@ export default function ValueProposition() {
           </h3>
           <div className="prose prose-indigo max-w-none">
             <p className="text-gray-600">
-              When you work with a full stack developer, you're getting more than just a website builder. You're partnering with someone who understands how all the pieces fit together - from user experience to data security, from performance optimization to scalable architecture. My background in systems integration means I approach every project holistically, ensuring all components work together seamlessly to create a solution that truly serves your business needs.
+            Working with a full stack developer means you get more than a website builder; you gain a partner who understands how every element—from user experience to data security—fits together to serve your business. My systems integration experience ensures that each component works harmoniously, creating a solution that meets your unique needs.
             </p>
             <br />
             <p className="text-gray-600">
-            In addition to building comprehensive web applications, I also offer services for simpler website needs. If you’re looking for a refresh of your existing site, a dynamic landing page, or a website that doesn’t require extensive back-end development, I can help create effective, visually appealing solutions that suit your needs without the full stack complexity. 
+            I offer both comprehensive web applications and simpler, effective solutions. Whether you need a website refresh, a landing page, or a straightforward site without complex back-end development, I deliver visually appealing and results-driven designs tailored to your business goals.
             </p>
           </div>
         </div>
